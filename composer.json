@@ -1,0 +1,26 @@
+{
+    "name": "rutger/yii2-opcache",
+    "description": "An OPcache manager for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "opcache", "module"],
+    "license": "GNU GPLv3",
+    "support": {
+        "issues": "https://github.com/rhertogh/yii2-opcache/issues?state=open",
+        "source": "https://github.com/lajax/yii2-opcache"
+    },
+    "authors": [
+        {
+            "name": "Rutger Hertogh",
+            "email": "r.hertogh@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "yiisoft/yii2-bootstrap": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rhertogh\\yii2opcache\\": ""
+        }
+    }
+}
