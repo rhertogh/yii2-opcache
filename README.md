@@ -1,2 +1,2 @@
 # yii2-opcache
-A OPcache manager for Yii2
+An OPcache manager for Yii2
