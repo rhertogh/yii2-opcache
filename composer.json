@@ -1,5 +1,5 @@
 {
-    "name": "rutger/yii2-opcache",
+    "name": "rhertogh/yii2-opcache",
     "description": "An OPcache manager for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "opcache", "module"],
